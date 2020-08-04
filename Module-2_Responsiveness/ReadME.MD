@@ -11,8 +11,8 @@
 
 ## My Favourite Quotes [OUTPUT :computer: Link](https://guru-shreyansh.github.io/WebDev_JHU_HTML-CSS-JS/Module-2_Responsiveness/index1.html)
 ## Desktop Output Screen
-![Desktop Output Screen]<img src="Output-Screenshot-DESKTOP.jpg" width=300 height=300>
+![Desktop Output Screen](Output-Screenshot-DESKTOP.jpg)
 ## Tablet Output Screen
 ![Tablet Output Screen](Output-Screenshot-TABLET.jpg)
 ## Mobile Output Screen
-![Mobile Output Screen](Output-Screenshot-MOBILE.jpg)
+<img src="Output-Screenshot-DESKTOP.jpg" width=1000 height=3000>
