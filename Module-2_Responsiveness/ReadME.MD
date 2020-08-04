@@ -3,13 +3,8 @@
 <p><em>ツ Σπɢιπεεя ♛ ᒪᕮᗩᖇᑎᕮᖇ ♞ Gⓐⓜⓔⓡ ✘ A ʀ ✞ ɪ ꜱ ✞ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-<a href="https://twitter.com/GURU_Shreyansh" class="twitter-follow-button" data-show-count="true" data-size="large">Follow @GURU_Shreyansh</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-
-		<a href="http://twitter.com/{TwitterUsername}" class="twitter-follow-button">
-			Follow @{TwitterUsername}
-		</a>
-		<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+![Twitter Follow](https://img.shields.io/twitter/follow/GURU_Shreyansh?color=%2348C9B0&style=social)
+![GitHub followers](https://img.shields.io/github/followers/guru-shreyansh?label=Follow%20Me%21&style=social)
 
 ## Module-2 Coding Assignment
 
