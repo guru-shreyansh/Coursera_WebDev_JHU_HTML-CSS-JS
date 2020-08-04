@@ -3,8 +3,8 @@
 <p><em>ツ Σπɢιπεεя ♛ ᒪᕮᗩᖇᑎᕮᖇ ♞ Gⓐⓜⓔⓡ ✘ A ʀ ✞ ɪ ꜱ ✞ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/GURU_Shreyansh?color=%2348C9B0&style=social)
-![GitHub followers](https://img.shields.io/github/followers/guru-shreyansh?label=Follow%20Me%21&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/GURU_Shreyansh?&link=https://twitter.com/GURU_Shreyansh&style=social)
+![GitHub Followers](https://img.shields.io/github/followers/guru-shreyansh?label=Follow%20Me%21&style=social&link=https://github.com/guru-shreyansh)
 
 ## Module-3 Coding Assignment
 
