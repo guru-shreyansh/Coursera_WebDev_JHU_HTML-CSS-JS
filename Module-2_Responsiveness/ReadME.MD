@@ -2,7 +2,7 @@
 
 ## Module-2 Coding Assignment
 
-- [Webpage Link](#my-favourite-quotes)
+- [Webpage Link](https://guru-shreyansh.github.io/WebDev_JHU_HTML-CSS-JS/Module-2_Responsiveness/index1.html)
 - [Desktop Output Screen](#desktop-output-screen)
 - [Tablet Output Screen](#tablet-output-screen)
 - [Mobile Output Screen](#mobile-output-screen)
