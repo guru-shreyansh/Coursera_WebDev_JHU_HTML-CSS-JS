@@ -4,7 +4,7 @@
 }
 
 body {
-    background-image: url("https://github.com/guru-shreyansh/WebDev_JHU_HTML-CSS-JS/blob/gh-pages/Module-2_Responsiveness/Webpage-Background%2B1.png");
+    background-image: url('https://github.com/guru-shreyansh/WebDev_JHU_HTML-CSS-JS/blob/gh-pages/Module-2_Responsiveness/Webpage-Background%2B1.png');
     background-size: 100% 100%;
     background-color: #d6d6d6;
 }
