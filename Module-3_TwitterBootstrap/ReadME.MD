@@ -5,9 +5,7 @@
 
 <a class="twitter-follow-button"
   href="https://twitter.com/GURU_Shreyansh"
-  data-size="large"
-  show_count = yes
-  align = right>
+  data-size="large">
 Follow @GURU_Shreyansh</a>
 
 ## Module-3 Coding Assignment
@@ -19,14 +17,14 @@ Follow @GURU_Shreyansh</a>
 
 `Coursera Course: HTML, CSS, and Javascript for Web Developers by Johns Hopkins University`
 
-## My Favourite Quotes [OUTPUT :computer: Link](https://guru-shreyansh.github.io/WebDev_JHU_HTML-CSS-JS/Module-2_Responsiveness/index1.html)
-## Desktop Output Screen
+## My Favourite Quotes : [OUTPUT :computer: Link](https://guru-shreyansh.github.io/WebDev_JHU_HTML-CSS-JS/Module-2_Responsiveness/index1.html)
+## Desktop Output Screen ⇋
 ![Desktop Output Screen](Output-Screenshot-DESKTOP.png)
-## Tablet Output Screen
+## Tablet Output Screen ⇋
 ![Tablet Output Screen](Output-Screenshot-TABLET.jpg)
-## Mobile Output Screen
+## Mobile Output Screen ⇋
 
-| <img src="Output-Screenshot-MOBILE.jpg" width=600 height=4000> | <img src="Output-Screenshot-MOBILE_NavBar.jpg" width=600 height=4000> |
+| <img src="Output-Screenshot-MOBILE.jpg" width=500 height=4000> | <img src="Output-Screenshot-MOBILE_NavBar.jpg" width=500 height=4000> |
 |:---:|:---:|
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><em><b>I love connecting with different people</b> so if you want to say <b>Hi, I'll be happy to meet you!</b> 😊</em>
