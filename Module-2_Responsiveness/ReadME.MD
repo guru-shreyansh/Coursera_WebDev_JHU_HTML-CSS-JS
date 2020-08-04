@@ -15,4 +15,4 @@
 ## Tablet Output Screen
 ![Tablet Output Screen](Output-Screenshot-TABLET.jpg)
 ## Mobile Output Screen
-<img src="Output-Screenshot-MOBILE.jpg" width=500 height=1000>
+![Mobile Output Screen](Output-Screenshot-MOBILE.jpg)
