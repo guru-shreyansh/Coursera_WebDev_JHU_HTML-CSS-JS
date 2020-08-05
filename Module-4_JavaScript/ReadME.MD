@@ -17,7 +17,7 @@
 ## Hello & Goodbye Printer : [OUTPUT :computer: Link](https://guru-shreyansh.github.io/WebDev_JHU_HTML-CSS-JS/Module-4_JavaScript/index3.html)
 
 ## Console Output Screen
-![Console Output Screen]<p align="center"><img width="600" height="400" src="Output-Screenshot-CONSOLE.png"></p>
+<p align="center"><img width="600" height="400" src="Output-Screenshot-CONSOLE.png"></p>
 ## Desktop Output Screen
 ![Desktop Output Screen](Output-Screenshot-DESKTOP.png)
 
