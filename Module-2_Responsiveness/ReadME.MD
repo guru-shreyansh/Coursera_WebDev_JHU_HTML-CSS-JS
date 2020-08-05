@@ -1,6 +1,6 @@
 <h2>नमस्ते (Namaste):rabbit:, I'm Shreyansh Kumar Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>ツ Σπɢιπεεя ♛ ᒪᕮᗩᖇᑎᕮᖇ ♞ Gⓐⓜⓔⓡ ✘ A ʀ ✞ ɪ ꜱ ✞ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>ツ Σπɢιπεεя ♛ ᒪᕮᗩᖇᑎᕮᖇ ♞ Gⓐⓜⓔⓡ ✘ A ʀ ✞ ɪ ꜱ ✞  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/GURU_Shreyansh?&style=social)](https://twitter.com/intent/user?screen_name=GURU_Shreyansh)
