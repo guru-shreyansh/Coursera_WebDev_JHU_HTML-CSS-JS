@@ -18,6 +18,7 @@
 
 ## Console Output Screen
 <p align="center"><img width="600" height="400" src="Output-Screenshot-CONSOLE.png"></p>
+
 ## Desktop Output Screen
 ![Desktop Output Screen](Output-Screenshot-DESKTOP.png)
 
