@@ -20,6 +20,6 @@
 <p align="center"><img width="600" height="400" src="Output-Screenshot-CONSOLE.png"></p>
 
 ## Desktop Output Screen
-![Desktop Output Screen](Output-Screenshot-DESKTOP.png)
+![Desktop Output Screen](Output-Screenshot-DESKTOP.jpg)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><em><b>I love connecting with different people</b> so if you want to say <b>Hi, I'll be happy to meet you!</b> 😊</em>
