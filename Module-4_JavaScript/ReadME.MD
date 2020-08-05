@@ -9,15 +9,16 @@
 ## Module-4 Coding Assignment
 
 - [Webpage Link](https://guru-shreyansh.github.io/WebDev_JHU_HTML-CSS-JS/Module-4_JavaScript/index3.html)
-- [Desktop Output Screen](#desktop-output-screen)
 - [Console Output Screen](#console-output-screen)
+- [Desktop Output Screen](#desktop-output-screen)
 
 `Coursera Course: HTML, CSS, and Javascript for Web Developers by Johns Hopkins University`
 
 ## Hello & Goodbye Printer : [OUTPUT :computer: Link](https://guru-shreyansh.github.io/WebDev_JHU_HTML-CSS-JS/Module-4_JavaScript/index3.html)
+
+## Console Output Screen
+![Console Output Screen](Output-Screenshot-CONSOLE.png)<p align="center"><img width="600" height="400" src="Output-Screenshot-CONSOLE.png"></p>
 ## Desktop Output Screen
 ![Desktop Output Screen](Output-Screenshot-DESKTOP.png)
-## Console Output Screen
-![Console Output Screen](Output-Screenshot-CONSOLE.png)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><em><b>I love connecting with different people</b> so if you want to say <b>Hi, I'll be happy to meet you!</b> 😊</em>
