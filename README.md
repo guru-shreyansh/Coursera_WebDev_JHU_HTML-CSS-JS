@@ -40,7 +40,7 @@
 
 | My Favourite Quotes :: MOD-2 | Javascript Console :: MOD-4 |
 | ------------- | ------------- |
-| <img src="Output-Screenshots/Output-Screenshot-MOD.2.jpg" width=500 height=180> | <img src="Output-Screenshots/Output-Screenshot-MOD.4.jpg" width=500 height=180> |
+| <img src="Output-Screenshots/Output-Screenshot-MOD.2.jpg" width=500 height=200> | <img src="Output-Screenshots/Output-Screenshot-MOD.4.jpg" width=500 height=200> |
 
 
 | World Famous Monuments :: MOD-3 | David Chu's China Bistro :: MOD-5 |
