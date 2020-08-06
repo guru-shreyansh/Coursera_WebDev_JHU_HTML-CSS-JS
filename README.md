@@ -40,10 +40,12 @@
 
 | My Favourite Quotes :: MOD-2 | Javascript Console :: MOD-4 |
 | ------------- | ------------- |
-| <img src="Output-Screenshot-MOD.2.jpg" width=500 height=180> | <img src="Output-Screenshot-MOD.4.jpg" width=500 height=180> |
+| <img src="Output-Screenshots/Output-Screenshot-MOD.2.jpg" width=500 height=180> | <img src="Output-Screenshots/Output-Screenshot-MOD.4.jpg" width=500 height=180> |
+
+
 | World Famous Monuments :: MOD-3 | David Chu's China Bistro :: MOD-5 |
 | ------------- | ------------- |
-| <img src="Output-Screenshot-MOD.3.jpg" width=500 height=400> | <img src="Output-Screenshot-MOD.5.jpg" width=500 height=400> |
+| <img src="Output-Screenshots/Output-Screenshot-MOD.3.jpg" width=500 height=400> | <img src="Output-Screenshots/Output-Screenshot-MOD.5.jpg" width=500 height=400> |
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><em><b>I love connecting with different people</b> so if you want to say <b>Hi, I'll be happy to meet you!</b> 😊</em>
