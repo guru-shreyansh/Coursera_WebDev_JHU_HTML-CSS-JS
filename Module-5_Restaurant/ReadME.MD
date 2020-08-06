@@ -18,18 +18,18 @@
 
 ## David Chu's China Bistro : [OUTPUT :computer: Link](https://guru-shreyansh.github.io/WebDev_JHU_HTML-CSS-JS/Module-5_Restaurant/index4.html)
 ## Desktop Output Screen
-![Desktop Output Screen](Output-Screenshot-DESKTOP.png)
+![Desktop Output Screen](Output-Screenshot-DESKTOP.jpg)
 
 
 | ## Specials Output Screen  | ## Tablet Output Screen |
 | ------------- | ------------- |
-| ![Specials Output Screen](Output-Screenshot-SPECIALS.png) | ![Tablet Output Screen](Output-Screenshot-TABLET.png) |
+| ![Specials Output Screen](Output-Screenshot-SPECIALS.jpg) | ![Tablet Output Screen](Output-Screenshot-TABLET.jpg) |
 
 
-| <img src="Output-Screenshot-SPECIALS.png" width=500 height=750> | <img src="Output-Screenshot-TABLET.png" width=500 height=750> |
+| <img src="Output-Screenshot-SPECIALS.jpg" width=500 height=750> | <img src="Output-Screenshot-TABLET.jpg" width=500 height=750> |
 |:---:|:---:|
 
 ## Menu Output Screen
-![Menu Output Screen](Output-Screenshot-MENU.png)
+![Menu Output Screen](Output-Screenshot-MENU.jpg)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><em><b>I love connecting with different people</b> so if you want to say <b>Hi, I'll be happy to meet you!</b> 😊</em>
