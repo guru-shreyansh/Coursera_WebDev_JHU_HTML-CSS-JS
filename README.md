@@ -24,22 +24,26 @@
 
 <img align='right' src="Coursera+HTML-CSS-JavaScript.jpg" height="525" widht="630">
 
-## Module II : [Responsiveness](https://guru-shreyansh.github.io/WebDev_JHU_HTML-CSS-JS/Module-2_Responsiveness/index1.html)
+* **Module II** : [My Favourite Quotes](https://guru-shreyansh.github.io/WebDev_JHU_HTML-CSS-JS/Module-2_Responsiveness/index1.html)
+
 `Responsiveness`
-* **Module III** : [Twitter Bootstrap](https://guru-shreyansh.github.io/WebDev_JHU_HTML-CSS-JS/Module-3_TwitterBootstrap/index2.html)
+* **Module III** : [World Famous Monuments](https://guru-shreyansh.github.io/WebDev_JHU_HTML-CSS-JS/Module-3_TwitterBootstrap/index2.html)
+
 `Twitter Bootstrap`
-## Module IV : [JavaScript](https://guru-shreyansh.github.io/WebDev_JHU_HTML-CSS-JS/Module-4_JavaScript/index3.html)
+* **Module IV** : [Hello & Goodbye Printer](https://guru-shreyansh.github.io/WebDev_JHU_HTML-CSS-JS/Module-4_JavaScript/index3.html)
+
 `JavaScript`
-* **Module V** : [Restaurant Website](https://guru-shreyansh.github.io/WebDev_JHU_HTML-CSS-JS/Module-5_Restaurant/index4.html)
+* **Module V** : [David Chu's China Bistro](https://guru-shreyansh.github.io/WebDev_JHU_HTML-CSS-JS/Module-5_Restaurant/index4.html)
+
 `Restaurant Website`
 
 
-| My Favourite Quotes :: MOD-2 | World Famous Monuments :: MOD-3 |
+| My Favourite Quotes :: MOD-2 | Javascript Console :: MOD-4 |
 | ------------- | ------------- |
-| <img src="Output-Screenshot-MOD.2.jpg" width=500 height=750> | <img src="Output-Screenshot-MOD.3.jpg" width=500 height=750> |
-| Javascript Console :: MOD-4 | David Chu's China Bistro :: MOD-5 |
+| <img src="Output-Screenshot-MOD.2.jpg" width=500 height=180> | <img src="Output-Screenshot-MOD.4.jpg" width=500 height=180> |
+| World Famous Monuments :: MOD-3 | David Chu's China Bistro :: MOD-5 |
 | ------------- | ------------- |
-| <img src="Output-Screenshot-MOD.4.jpg" width=500 height=750> | <img src="Output-Screenshot-MOD.5.jpg" width=500 height=750> |
+| <img src="Output-Screenshot-MOD.3.jpg" width=500 height=400> | <img src="Output-Screenshot-MOD.5.jpg" width=500 height=400> |
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><em><b>I love connecting with different people</b> so if you want to say <b>Hi, I'll be happy to meet you!</b> 😊</em>
