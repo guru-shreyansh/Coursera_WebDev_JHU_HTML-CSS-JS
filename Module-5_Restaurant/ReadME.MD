@@ -20,11 +20,8 @@
 ## Desktop Output Screen
 ![Desktop Output Screen](Output-Screenshot-DESKTOP.jpg)
 
-
-| ## Specials Output Screen  | ## Tablet Output Screen |
-| ------------- | ------------- |
-| ![Specials Output Screen](Output-Screenshot-SPECIALS.jpg) | ![Tablet Output Screen](Output-Screenshot-TABLET.jpg) |
-
+## Specials Output Screen
+## Tablet Output Screen
 
 | <img src="Output-Screenshot-SPECIALS.jpg" width=500 height=750> | <img src="Output-Screenshot-TABLET.jpg" width=500 height=750> |
 |:---:|:---:|
