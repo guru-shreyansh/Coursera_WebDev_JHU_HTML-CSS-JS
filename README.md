@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+<h2>नमस्ते (Namaste):rabbit:, I'm Shreyansh Kumar Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif" width="230">
+<p><em>ツ Σπɢιπεεя ♛ ᒪᕮᗩᖇᑎᕮᖇ ♞ Gⓐⓜⓔⓡ ✘ A ʀ ✞ ɪ ꜱ ✞ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-You can use the [editor on GitHub](https://github.com/guru-shreyansh/WebDev_JHU_HTML-CSS-JS/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+[![Twitter Follow](https://img.shields.io/twitter/follow/GURU_Shreyansh?&style=social)](https://twitter.com/intent/user?screen_name=GURU_Shreyansh)
+[![GitHub Followers](https://img.shields.io/github/followers/guru-shreyansh?label=Follow%20Me%21&style=social&link=https://github.com/guru-shreyansh)](https://github.com/guru-shreyansh)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Module Coding Assignments Solutions
 
-### Markdown
+`Coursera Course: HTML, CSS, and Javascript for Web Developers by Johns Hopkins University`
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+>`C`
+>`E`
+>`R`
+>`T`
+>`I`
+>`F`
+>`I`
+>`C`
+>`A`
+>`T`
+>`E`
 
-```markdown
-Syntax highlighted code block
+<img align='right' src="Coursera+HTML-CSS-JavaScript.jpg" height="525" widht="630">
 
-# Header 1
-## Header 2
-### Header 3
+## Module II : [Responsiveness](https://guru-shreyansh.github.io/WebDev_JHU_HTML-CSS-JS/Module-2_Responsiveness/index1.html)
+`Responsiveness`
+* **Module III** : [Twitter Bootstrap](https://guru-shreyansh.github.io/WebDev_JHU_HTML-CSS-JS/Module-3_TwitterBootstrap/index2.html)
+`Twitter Bootstrap`
+## Module IV : [JavaScript](https://guru-shreyansh.github.io/WebDev_JHU_HTML-CSS-JS/Module-4_JavaScript/index3.html)
+`JavaScript`
+* **Module V** : [Restaurant Website](https://guru-shreyansh.github.io/WebDev_JHU_HTML-CSS-JS/Module-5_Restaurant/index4.html)
+`Restaurant Website`
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+| My Favourite Quotes :: MOD-2 | World Famous Monuments :: MOD-3 |
+| ------------- | ------------- |
+| <img src="Output-Screenshot-MOD.2.jpg" width=500 height=750> | <img src="Output-Screenshot-MOD.3.jpg" width=500 height=750> |
+| Javascript Console :: MOD-4 | David Chu's China Bistro :: MOD-5 |
+| ------------- | ------------- |
+| <img src="Output-Screenshot-MOD.4.jpg" width=500 height=750> | <img src="Output-Screenshot-MOD.5.jpg" width=500 height=750> |
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><em><b>I love connecting with different people</b> so if you want to say <b>Hi, I'll be happy to meet you!</b> 😊</em>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/guru-shreyansh/WebDev_JHU_HTML-CSS-JS/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## :octocat: GURU-Shreynash :octocat:
